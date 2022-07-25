@@ -1,6 +1,6 @@
 # TCS-NQT-Coding-Sheet
 
-Problems on Arrays<br/><br/>
+# Problems on Arrays<br/><br/>
 
 1.Find the smallest number in an array <br/>
 2.Find the largest number in an array<br/>
@@ -28,6 +28,8 @@ Problems on Arrays<br/><br/>
 24.Search an element in an array<br/>
 25.Check if Array is a subset of another array or not<br/>
 26.Problems on Numbers<br/><br/>
+
+# Problems on Numbers<br/><br/>
 
 27.Check if a number is palindrome or not<br/>
 28.Find all Palindrome numbers in a given range<br/>
@@ -66,6 +68,7 @@ Problems on Arrays<br/><br/>
 61.Program to find roots of a Quadratic Equation<br/>
 62.Problems on Number System<br/><br/>
 
+# Problems on Number System <br/><br/>
 63.Convert Binary to Decimal<br/>
 64.Convert binary to octal<br/>
 65.Decimal to Binary conversion<br/>
@@ -75,6 +78,7 @@ Problems on Arrays<br/><br/>
 69.Convert digits/numbers to words<br/>
 70.Problems on Sorting<br/>
 
+# Problems on Sorting <br/><br/>
 71.Bubble Sort Algorithm<br/>
 72.Selection Sort Algorithm<br/>
 73.Insertion Sort Algorithm<br/>
@@ -82,6 +86,7 @@ Problems on Arrays<br/><br/>
 75.Merge sort algorithm<br/>
 76.Problems on String<br/><br/>
 
+# Problems on String<br/><br/>
 77.Check if a given string is palindrome or not<br/>
 78.Count number of vowels, consonants, spaces in String<br/>
 79.Find the ASCII value of a character<br/>
