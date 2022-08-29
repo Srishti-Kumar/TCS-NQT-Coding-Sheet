@@ -2,7 +2,7 @@
 
 # Problems on Arrays<br/><br/>
 
-1.Find the smallest number in an array <br/>
+1.Find the smallest number in an array :white_check_mark: <br/>
 2.Find the largest number in an array<br/>
 3.Second Smallest and Second Largest element in an array<br/>
 4.Reverse a given array<br/>
