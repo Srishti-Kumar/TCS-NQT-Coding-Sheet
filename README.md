@@ -3,15 +3,15 @@
 # Problems on Arrays<br/><br/>
 
 1.Find the smallest number in an array :white_check_mark: <br/>
-2.Find the largest number in an array<br/>
-3.Second Smallest and Second Largest element in an array<br/>
-4.Reverse a given array<br/>
-5.Count frequency of each element in an array<br/>
-6.Rearrange array in increasing-decreasing order<br/>
-7.Calculate sum of the elements of the array<br/>
-8.Rotate array by K elements – Block Swap Algorithm<br/>
-9.Average of all elements in an array<br/>
-10.Find the median of the given array<br/>
+2.Find the largest number in an array :white_check_mark: <br/>
+3.Second Smallest and Second Largest element in an array :white_check_mark: <br/>
+4.Reverse a given array :white_check_mark: <br/>
+5.Count frequency of each element in an array :white_check_mark: <br/>
+6.Rearrange array in increasing-decreasing order :white_check_mark: <br/>
+7.Calculate sum of the elements of the array :white_check_mark: <br/>
+8.Rotate array by K elements – Block Swap Algorithm :white_check_mark: <br/>
+9.Average of all elements in an array :white_check_mark: <br/>
+10.Find the median of the given array :white_check_mark: <br/>
 11.Remove duplicates from a sorted array<br/>
 12.Remove duplicates from unsorted array<br/>
 13.Adding Element in an array<br/>
