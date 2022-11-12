@@ -12,8 +12,8 @@
 8.Rotate array by K elements – Block Swap Algorithm :white_check_mark: <br/>
 9.Average of all elements in an array :white_check_mark: <br/>
 10.Find the median of the given array :white_check_mark: <br/>
-11.Remove duplicates from a sorted array<br/>
-12.Remove duplicates from unsorted array<br/>
+11.Remove duplicates from a sorted array :white_check_mark: <br/>
+12.Remove duplicates from unsorted array :white_check_mark: <br/>
 13.Adding Element in an array<br/>
 14.Find all repeating elements in an array<br/>
 15.Find all non-repeating elements in an array<br/>
