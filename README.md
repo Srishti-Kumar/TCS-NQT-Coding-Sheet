@@ -14,9 +14,9 @@
 10.Find the median of the given array :white_check_mark: <br/>
 11.Remove duplicates from a sorted array :white_check_mark: <br/>
 12.Remove duplicates from unsorted array :white_check_mark: <br/>
-13.Adding Element in an array<br/>
-14.Find all repeating elements in an array<br/>
-15.Find all non-repeating elements in an array<br/>
+13.Adding Element in an array :white_check_mark: <br/>
+14.Find all repeating elements in an array :white_check_mark: <br/>
+15.Find all non-repeating elements in an array :white_check_mark: <br/>
 16.Find all symmetric pairs in array<br/>
 17.Maximum product subarray in an array<br/>
 18.Replace each element of the array by its rank in the array<br/>
